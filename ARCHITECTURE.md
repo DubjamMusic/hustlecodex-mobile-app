@@ -78,7 +78,8 @@ HustleCodeX Mobile is a gamified mobile application that combines profit intelli
 ## Technology Stack
 
 ### Frontend
-- **Framework**: React Native (v0.81.5) + React 19
+- **Framework**: React Native (v0.81.5) with React 19.1.0
+  - _Note: This is a non-standard combination as RN 0.81.x officially supports React 18.x_
 - **Build Tool**: Expo (v54)
 - **Navigation**: Expo Router (file-based routing)
 - **Styling**: NativeWind (Tailwind CSS for React Native)
