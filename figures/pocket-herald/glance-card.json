@@ -1,0 +1,12 @@
+{
+  "figure": "pocket-herald",
+  "wave": "2026-09-18-c-circuit",
+  "readSecondsMax": 5,
+  "card": {
+    "streak": "at-risk",
+    "nextAction": "Open the Loopsmith PR and run python figures/loopsmith/contract.py",
+    "densityLever": "V",
+    "tone": "recovery-informed",
+    "offlineOk": true
+  }
+}
