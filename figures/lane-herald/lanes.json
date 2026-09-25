@@ -1,0 +1,18 @@
+{
+  "figureId": "lane-herald",
+  "codename": "LANE-HERALD-25",
+  "waveId": "2026-09-25-j-keel",
+  "repo": "DubjamMusic/hustlecodex-mobile-app",
+  "role": "Bind the mobile glance lanes as a scored tab card.",
+  "knowledge": [
+    "app/(tabs) is the glance source, not this wave's rewrite surface",
+    "Lanes are a density card, not an Expo route rewrite",
+    "OAuth and drizzle schema stay on a separate issue"
+  ],
+  "sample": {"N": 7.8, "V": 8.8, "S": 7.2, "D": 8.2},
+  "weights": {"N": 0.30, "V": 0.20, "S": 0.20, "D": 0.30},
+  "expectedDensity": 7.982,
+  "bannedTokens": ["planner", "executor", "monitor", "data_agent"],
+  "predecessorNotThisWave": "pocket-herald",
+  "mergePolicy": "pr-only"
+}
