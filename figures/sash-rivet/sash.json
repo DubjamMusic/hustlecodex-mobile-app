@@ -1,0 +1,18 @@
+{
+  "figureId": "sash-rivet",
+  "codename": "SASH-RIVET-29",
+  "waveId": "2026-09-29-n-rivet",
+  "repo": "DubjamMusic/hustlecodex-mobile-app",
+  "role": "Fasten one mobile lane contract without rewriting navigation.",
+  "knowledge": [
+    "Allowed: name the lane, pin density card, file a separate issue",
+    "Forbidden this wave: store binaries, secret files, auto-merge",
+    "app routes and theme stay on a separate issue"
+  ],
+  "sample": {"N": 8.2, "V": 8.0, "S": 8.5, "D": 8.4},
+  "weights": {"N": 0.30, "V": 0.20, "S": 0.20, "D": 0.30},
+  "expectedDensity": 8.278,
+  "bannedTokens": ["planner", "executor", "monitor", "data_agent"],
+  "predecessorNotThisWave": "lane-herald",
+  "mergePolicy": "pr-only"
+}
